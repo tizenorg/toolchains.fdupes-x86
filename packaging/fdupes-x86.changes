@@ -1,0 +1,6 @@
+* Sun Apr 24 08:02:35 UTC 2011 - Jan-Simon Möller <jsmoeller@linuxfoundation.org> - 1.0
+- Add baselibs.conf to src.rpm
+
+Mon Jan 24 2011 Xin Zhong <xin.zhong@intel.com> - 
+- BMC #12113 
+- Use native fdupes to reduce the building time for fennec-qt and qt
